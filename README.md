@@ -65,16 +65,20 @@ The project identifies top and bottom-performing cities, evaluates peak and low-
 
 ## **Key Visualizations**
 1. **Top and Bottom Cities by Trip Volume Variance:**
-   ![Top and Bottom Cities](screenshots/trip_volume_variance.png)
+ ![Top and Bottom Cities by Trip Volume](https://github.com/user-attachments/assets/7c662196-07fc-4ac8-80fd-0c81312fd466)
+
 
 2. **Average Distance Traveled by City:**
-   ![Average Distance](screenshots/average_distance_fare.png)
+ ![Average Distance Travelled by City](https://github.com/user-attachments/assets/4e21dd34-8cac-4db8-a8d9-041dd6620fed)
+
+
 
 3. **Repeat Passenger Ratio (RPR%) by City:**
-   ![RPR by City](screenshots/rpr_by_city.png)
+   ![Repeat Passenger Ratio (RPR) Percentage by City](https://github.com/user-attachments/assets/2775d8da-c72c-4133-9e4b-4bfef2e628b9)
+
 
 4. **Actual vs Target Trips:**
-   ![Actual vs Target Trips](screenshots/actual_vs_target_trips.png)
+   ![Actual Trips vs Target Trips by City](https://github.com/user-attachments/assets/eae0d819-388b-4673-b9b1-1abdcf2420a8)
 
 ---
 
